@@ -1,0 +1,30 @@
+[
+    {
+      "programId": 1,
+      "programName": "Creative Services"
+    },
+    {
+      "programId": 2,
+      "programName": "Product Development"
+    },
+    {
+      "programId": 3,
+      "programName": "Marketing"
+    },
+    {
+      "programId": 4,
+      "programName": "Strategic Planning"
+    },
+    {
+      "programId": 5,
+      "programName": "Accounting"
+    },
+    {
+      "programId": 6,
+      "programName": "Human Resources"
+    },
+    {
+      "programId": 7,
+      "programName": "Quality Analysis"
+    }
+  ]
