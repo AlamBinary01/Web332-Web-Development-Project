@@ -22,7 +22,7 @@ npm install express --save
 npm install express-handlebars --save
 
 npm install body-parser --save
-To simply access this web application online, please visit: https://web322-wcng1-assign7.herokuapp.com/
+
 Built With
 
     Node.js - JavaScript runtime
