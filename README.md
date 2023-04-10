@@ -41,8 +41,6 @@ npm install client-sessions --save
 npm install bcryptjs --save
 ```
 
-To simply access this web application online, please visit: https://web322-wcng1-assign7.herokuapp.com/
-
 ## Built With
 * [Node.js](https://nodejs.org/) - JavaScript runtime
 * [Express.js](https://expressjs.com/) - Web application framework
