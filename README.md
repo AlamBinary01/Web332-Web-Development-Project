@@ -1,5 +1,6 @@
 # Fall 2023 WEB322 Web Development Project: seneca-web322
-
+## Client Credentials
+* Name: Jannatul Reshmen Chowdhury Sumonti Student ID: 156276214 Student College: Seneca
 ## Getting Started
 This Node.js web application is developed using Visual Studio Code. To obtain a copy of the project, simply clone the master branch. 
 
